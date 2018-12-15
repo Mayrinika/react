@@ -1,7 +1,7 @@
 import React from 'react';
-import Form from './myForm.js';
+import ReactDom from "react-dom";
 import './style.css';
-// import ReactDom from "react-dom";
+import Form from './Form';
 
 
 /**
@@ -50,9 +50,9 @@ import './style.css';
  */
 
 
-// ReactDom.render(
-//     <Form />,
-//     document.getElementById('react')
-// );
+ReactDom.render(
+    <Form />,
+    document.getElementById('react')
+);
 
-console.log('Hi from script!');
+
