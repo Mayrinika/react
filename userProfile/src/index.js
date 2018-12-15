@@ -1,4 +1,8 @@
+import React from 'react';
+import Form from './myForm.js';
 import './style.css';
+// import ReactDom from "react-dom";
+
 
 /**
  *  Итак, перед тобой пустой проект. Давай его чем-то заполним. Не стесняйся подсматривать в уже сделанные задачи,
@@ -44,5 +48,11 @@ import './style.css';
  *      гражданство, национальность, номер телефона и адрес электронной почты.
  *      Придумай, как избежать излишнего дублирования.
  */
+
+
+// ReactDom.render(
+//     <Form />,
+//     document.getElementById('react')
+// );
 
 console.log('Hi from script!');
