@@ -24,7 +24,7 @@ export default class Form extends React.Component {
     }
 
     renderForm() {
-        return(
+        return (
             <form>
                 <Gapped gap={15} vertical>
                     <lable>
@@ -47,15 +47,18 @@ export default class Form extends React.Component {
     }
 
     renderModal() {
-    return(
-        <Modal onClose={this.closeModal}>
-        <Modal.Header>Пользователь сохранен</Modal.Header>
-            <Modal.Footer>
-                <Button onClick={this.closeModal}>Закрыть</Button>
-            </Modal.Footer>
-        </Modal>
-    );
-}
+        return (
+            <Modal onClose={this.closeModal}>
+                <Modal.Header>Пользователь сохранен</Modal.Header>
+                <Modal.Body>
+                    <p>Измененные данные:</p>
+                </Modal.Body>
+                <Modal.Footer>
+                    <Button onClick={this.closeModal}>Закрыть</Button>
+                </Modal.Footer>
+            </Modal>
+        );
+    }
 
     openModal = () => {
         this.setState({
