@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3084b37-8f49-45b2-9f1b-8f10ddeb83a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tasks/src/7.FormRow/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/src/7.FormRow/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/src/8.ColorsOfTime/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/src/8.ColorsOfTime/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,14 +33,14 @@
         <counts>
           <entry key="css" value="6" />
           <entry key="html" value="15" />
-          <entry key="js" value="45" />
+          <entry key="js" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="6" />
           <entry key="HTML" value="15" />
-          <entry key="JavaScript" value="45" />
+          <entry key="JavaScript" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -64,11 +64,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tasks/src/7.FormRow/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1842">
               <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tasks/src/8.ColorsOfTime/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="708">
+              <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -102,6 +114,7 @@
         <option value="$PROJECT_DIR$/userProfile/src/Form.js" />
         <option value="$PROJECT_DIR$/tasks/src/6.UsersTable/index.js" />
         <option value="$PROJECT_DIR$/tasks/src/7.FormRow/index.js" />
+        <option value="$PROJECT_DIR$/tasks/src/8.ColorsOfTime/index.js" />
       </list>
     </option>
   </component>
@@ -156,7 +169,7 @@
               <item name="react" type="462c0819:PsiDirectoryNode" />
               <item name="tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="7.FormRow" type="462c0819:PsiDirectoryNode" />
+              <item name="8.ColorsOfTime" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,12 +220,12 @@
       <workItem from="1544883339655" duration="3810000" />
       <workItem from="1544947390437" duration="104000" />
       <workItem from="1544948590809" duration="4000" />
-      <workItem from="1544972716190" duration="878000" />
+      <workItem from="1544972716190" duration="1065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24492000" />
+    <option name="totallyTimeSpent" value="24679000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,6 +501,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1842">
           <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/src/8.ColorsOfTime/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
